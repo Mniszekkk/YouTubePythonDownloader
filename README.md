@@ -1,6 +1,3 @@
-# YouTubePythonDownloader
-Youtube videos downloader with destination folder option and GUI
-
 # YoutubeDownloader
 Youtube videos downloader with destination folder option and GUI
 By __[Mniszekkk](https://github.com/Mniszekkk)__
