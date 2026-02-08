@@ -1,5 +1,5 @@
 # YoutubeDownloader
-Youtube videos downloader made in python with destination folder options and GUI made in customtkinter
+Youtube videos downloader made in python with useful options and GUI made in customtkinter
 By __[Mniszekkk](https://github.com/Mniszekkk)__
 ___
 
